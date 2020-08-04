@@ -1,0 +1,14 @@
+./unicorn_main.iml 
+./unicorn_test.impl 
+./unicorn.ipr 
+./unicorn.iws 
+./*.class  
+./out/ 
+./.gradle/ 
+./gradle
+./build/classes
+./build/reports
+./build/resources
+./build/test-results
+./build/tmp
+./target/
